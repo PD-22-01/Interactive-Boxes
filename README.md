@@ -1,44 +1,11 @@
-# Interactive Boxes
+Interactive Boxes
+A simple **interactive product bundle selector** built with HTML, CSS, and vanilla JavaScript.  
+Users can choose between 1, 2, or 3 pairs, select size and color, and see the total price update dynamically.
 
-This project demonstrates **three interactive boxes** that expand on click.  
-Each box reveals **color and size options**, built with pure **HTML, CSS, and vanilla JavaScript** (no frameworks).
+Features
+- Expandable boxes for bundle options (1, 2, or 3 pairs)  
+- Dynamic total price calculation  
+- Size and color selection dropdowns  
+- Responsive, clean design  
+- Pure HTML, CSS & JavaScript (no frameworks)
 
----
-
-## 🚀 Live Demo
-🔗 [View Hosted Page](https://your-username.github.io/interactive-boxes/)
-
----
-
-## 📂 Repository
-🔗 [GitHub Repo](https://github.com/your-username/interactive-boxes)
-
----
-
-## 📸 Preview
-![Preview Screenshot](screenshot.png)
-
----
-
-## ✨ Features
-- Three stacked boxes (top, middle, bottom).
-- Smooth expand/collapse interaction on click.
-- Shows **color options** (red, blue, green).
-- Shows **size options** (S, M, L).
-- Only one box expands at a time.
-- Responsive design (works on mobile & desktop).
-- Clean, well-structured code.
-
----
-
-## 🛠 Tech Stack
-- **HTML5** – Structure  
-- **CSS3** – Styling & responsiveness  
-- **JavaScript (Vanilla)** – Interactivity  
-
----
-
-## 📌 How to Run Locally
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/interactive-boxes.git
